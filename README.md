@@ -1,6 +1,6 @@
 # My Python files
 
-Welcome to my Python projects repository! 🐍
+Welcome to my Python files repository! 🐍
 
 ## Overview
 
